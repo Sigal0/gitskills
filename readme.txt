@@ -13,3 +13,5 @@ you know nothing
 Creating a new branch is quick.
 fefw
 e
+
+Creating a new branch is quick AND simple.
